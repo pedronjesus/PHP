@@ -1,4 +1,4 @@
-    <?php
+<?php
 
 function somar(int $a, int$b) : int {
     return $a + $b;
@@ -13,8 +13,5 @@ function somar(int $a, int$b) : int {
 </head>
 <body>
 Resultado: <?=somar(3.5,6);?>
-
-
-
 </body>
 </html>
