@@ -32,7 +32,7 @@ function senhaValida($senha) {
 }
 
 
-$senha = "Senha123";
+$senha = "Pedro2001";
 
 if (senhaValida($senha)) {
     echo "Senha válida meu rei!";
